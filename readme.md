@@ -5,9 +5,8 @@
 - df_lig.csv - таблица с антителами и соответствующими лигандами
 - dna_aptamers.csv - таблица с данными по РНК-аптамерам, предоставлена лабораторией
 - rna_aptamers.csv - таблица с данными по ДНК-аптамерам , предоставлена лабораторией
-- sabdab_summary.csv - таблица с данными по антителам, с базы данных https://opig.stats.ox.ac.uk/webapps/sabdab-sabpred/sabdab
+- sabdab_summary_all.csv - таблица с данными по антителам, с базы данных https://opig.stats.ox.ac.uk/webapps/sabdab-sabpred/sabdab
 -ligands-sdf - структуры лигандов в формате .sdf
--PDB_mmcif - структуры PDB в формате .cif
 
 -scripts/
 - dna_ab_merging_dfs.ipynb - поиск общих лигандов антител и ДНК-аптамеров 
